@@ -1,2 +1,1 @@
-python-telegram-bot==20.3
-pillow
+pip install python-telegram-bot pillow
